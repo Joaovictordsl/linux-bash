@@ -1,6 +1,6 @@
-#This file is to practice my bash and Linux knowledge :)
+# This file is to practice my bash and Linux knowledge :)
 
-###Commands:
+### Commands:
 
 
 ```bash 
@@ -31,7 +31,8 @@ grep
 bat
 
 man # print the manual of a command ex: "man cat" 
- | #pipe
+ 
+| #pipe
 
 
 ```
