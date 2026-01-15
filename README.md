@@ -10,9 +10,18 @@
 Declare this to run the bash command with './'
 
 ```bash 
-ls -a 
-ls
+ls -a -l
+cd ./ ./..
 mv
 alias
 rm
+cp
+echo # "echo >" append to a file) "echo >>" (append to the end of the file)
+cat
+grep
+bat
+man
+ | #pipe
+
+
 ```
